@@ -2,7 +2,7 @@
 
 import React from 'react'
 import { UserButton } from '@clerk/nextjs';
-import { SearchInput } from './serach-input';
+import { SearchInput } from './search-input';
 import { OrganizationSwitcher, useOrganization } from '@clerk/nextjs';
 import { InviteButton } from './invite-button';
 
