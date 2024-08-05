@@ -4,6 +4,7 @@ import Navbar from "./_components/navbar";
 
 
 
+
 interface DashboardPageProps{
     children: React.ReactNode;
 }
